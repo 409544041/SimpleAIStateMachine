@@ -7,7 +7,7 @@ Date:       26/04/2017 11:02
 
 /*===============================================================
 Example realisation
-
+Create special netested classes of your states and inherit them from AIState
 ================================================================*/
 
 using System;
